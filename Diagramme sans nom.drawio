@@ -204,6 +204,9 @@
             <mxPoint x="419.75" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gyd6xaXUql2_VoaF4KRJ-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Choix des critères&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
